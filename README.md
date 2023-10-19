@@ -1,3 +1,8 @@
+<h1>Projeto criado pelo Felipe Aguiar da DIO</h1>
+<h1>Página PlaystationStore utilizando Angular</h1>
+
+
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
